@@ -1,3 +1,6 @@
 [submodule "dante_game"]
 	path = dante_game
 	url = https://github.com/btseytlin/dante_game.git
+[submodule "job-guide"]
+	path = job-guide
+	url = git@github.com:btseytlin/job-guide.git
