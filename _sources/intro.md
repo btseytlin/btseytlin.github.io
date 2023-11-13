@@ -1,11 +1,17 @@
-# Welcome to your Jupyter Book
+# Методичка: Поиск Работы в ML/DS
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Привет! Меня зовут [Борис](https://www.linkedin.com/in/btseytlin/), я ML специалист и автор телеграм канала [Boris Again](https://t.me/boris_again). 
 
-Check out the content pages bundled with this sample book to see more.
+Методичка, которую вы читаете, это моя попытка кратко систематизировать опыт поиска работы с точки зрения программиста, опыт найма сотрудников, а также опыт консультирования других людей по поиску работы. 
+
+Главный вывод: искать работу это своего рода отдельный навык. Я надеюсь, что эта небольшая книга поможет вам развить его и сэкономить себе время и нервы. 
+
+Я постарался сделать её такой, чтобы вы смогли прочитать её за один присест. Внутри я рассматриваю как общие принципы процесса найма, так и конкретные советы подкрепленные примерами из своей жизни. Методичка в первую очередь сделана с точки зрения Machine Learning специалиста, но почти весь контент применим к поиску работы в IT в целом.
+
+Если методичка оказалась для вас полезной есть два способа отблагодарить меня:
+1. Прислать ссылку на методичку своему другу.
+2. Подписаться на мой [телеграм канал](https://t.me/boris_again).
 
 ```{tableofcontents}
 ```
+
